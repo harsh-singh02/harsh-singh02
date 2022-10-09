@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Singh ✌
 - 👀 I’m interested in Cloud ☁, DevOps, Python🐍, Automation🐳
 - 🌱 I’m currently learning DevOps, Python🐍
-- 💞️ I’m looking to collaborate on Cloud Stuffs, Devops & Python
+- 💞️ I’m looking to collaborate on Cloud Stuffs, Devops & Python🐍
 - 📫 Reach me out @ harsh.singh2802@gmail.com💌
 
 <!---
